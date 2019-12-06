@@ -22,11 +22,15 @@ python3 pebble.py --type [selected lattice type]
 
 ## Result
 The lattice type:
+
   1. random
+  
 ![Random](https://github.com/kristinazhang/pebble/blob/master/PEBBLE_xy_random.png?raw=true)
   
   2. rectanguler
+  
 ![Rectanguler](https://github.com/kristinazhang/pebble/blob/master/PEBBLE_xy_rectanguler.png?raw=true)
 
   3. hexagonal
+  
 ![Hexagonal](https://github.com/kristinazhang/pebble/blob/master/PEBBLE_xy_hexagonal.png?raw=true)
